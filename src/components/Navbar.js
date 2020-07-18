@@ -28,7 +28,7 @@ const Navbar=(props)=> {
                                 <div class="col-xl-2 col-lg-2">
                                     <div class="logo-img">
                                         <Link to="/">
-                                            <img style={{height:"90px"}} src="img/logo.png" alt="" />
+                                            <img  src="img/logo.png" alt="" />
                                         </Link>
                                     </div>
                                 </div>
