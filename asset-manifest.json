@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amrapalifoils/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/amrapalifoils/static/js/main.d2bc1263.chunk.js",
+    "main.js.map": "/amrapalifoils/static/js/main.d2bc1263.chunk.js.map",
+    "runtime-main.js": "/amrapalifoils/static/js/runtime-main.59108786.js",
+    "runtime-main.js.map": "/amrapalifoils/static/js/runtime-main.59108786.js.map",
+    "static/js/2.07560b07.chunk.js": "/amrapalifoils/static/js/2.07560b07.chunk.js",
+    "static/js/2.07560b07.chunk.js.map": "/amrapalifoils/static/js/2.07560b07.chunk.js.map",
+    "index.html": "/amrapalifoils/index.html",
+    "precache-manifest.9c02fc7bec59d66a20f77f8f06e1bbc3.js": "/amrapalifoils/precache-manifest.9c02fc7bec59d66a20f77f8f06e1bbc3.js",
+    "service-worker.js": "/amrapalifoils/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/amrapalifoils/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.07560b07.chunk.js.LICENSE.txt": "/amrapalifoils/static/js/2.07560b07.chunk.js.LICENSE.txt",
+    "static/media/slider-img-1.jpg": "/amrapalifoils/static/media/slider-img-1.748352d9.jpg",
+    "static/media/slider-img-2.jpg": "/amrapalifoils/static/media/slider-img-2.643b0b04.jpg",
+    "static/media/slider-img-3.jpg": "/amrapalifoils/static/media/slider-img-3.43b098ad.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59108786.js",
+    "static/js/2.07560b07.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.d2bc1263.chunk.js"
+  ]
+}
